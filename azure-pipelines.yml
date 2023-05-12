@@ -10,7 +10,7 @@ pool:
   name: 'My-Pool'
 
 variables:
-  solution: '**/PartsUnlimited-aspnet45/PartsUnlimited.sln'
+  solution: '**/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
