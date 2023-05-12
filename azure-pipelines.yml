@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'windows-2019'
+  name: 'My-Pool'
 
 variables:
   solution: '**/*.sln'
