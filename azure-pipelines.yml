@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'My-Pool'
+  name: 'Azure Pipelines'
 
 variables:
   solution: '**//*.sln'
